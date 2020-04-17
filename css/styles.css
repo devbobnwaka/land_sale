@@ -1,0 +1,71 @@
+body{
+    background-color: #4e7399;
+}
+
+#home-pg{
+    padding: 17px;
+    font-size: 1.2em;
+    margin-top:10%;
+}
+#login{
+	 padding: 17px;
+    font-size: 1.2em;
+    margin-top:6%;
+    border: 1px solid white;
+}
+.home-card{
+    /* border: 1px solid white; */
+    padding: 10px;
+}
+
+#sign-up{
+    padding: 17px;
+    font-size: 1.2em;
+    margin-top:1.5%; 
+    border: 1px solid white;
+    box-shadow: -4px 4px 5px #485563;
+}
+
+.valid-feedback, .invalid-feedback{
+    font-size: 1.05em;
+}
+
+.input-error{
+	border: 2px solid rgb(189, 69, 93);
+}
+
+.field-empty-msg{
+	width: 100%;
+	margin-top: 0.25rem;
+	font-size: 100%;
+	color: #dc3545;
+	display: block;
+}
+
+.jum{
+	text-align: center;
+	padding:  0;
+}
+
+.form-jum{
+	margin: auto;
+}
+
+.left-a{
+	text-align: left;
+}
+
+.m-bottom{
+    border-bottom: 1px solid rgb(100, 93, 84);
+}
+
+.logo-img{
+	border-radius: 100%;
+	width: 100px;
+	height: 100px;
+}
+.logo-img-2{
+	border-radius: 100%;
+	width: 20px;
+	height: 20px;
+}
